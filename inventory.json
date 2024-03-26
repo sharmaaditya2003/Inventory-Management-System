@@ -1,0 +1,11 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Dove Shampoo\n",
+        "quantity": 12,
+        "price": 200.0,
+        "category": "SHhapoo",
+        "brand": "Dove",
+        "sales": 0
+    }
+]
